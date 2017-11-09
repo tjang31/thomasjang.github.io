@@ -8,14 +8,17 @@ body {
 
 h1 {
   Font-size: 80px;
+  text-align: left;
 }
 
 h2 { 
   Font-size: 30px;
+  text-align: left;
 }
 
 p {
   Font-size: 20px;
+  text-align: left;
   bottom-margin: 5cm;
 }
 
