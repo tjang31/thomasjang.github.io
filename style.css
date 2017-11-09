@@ -19,7 +19,8 @@ p {
   bottom-margin: 5cm;
 }
 
-ul#mylist {
-  list-style-position: inside;
-} 
+ul {
+  text-align: center;
+}
+
 
