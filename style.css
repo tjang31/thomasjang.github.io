@@ -16,7 +16,7 @@ h2 {
 
 p {
   Font-size: 20px;
-  margin: 5cm 5cm 5cm 5cm;
+  bottom-margin: 5cm;
 }
 
 ul#mylist {
