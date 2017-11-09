@@ -17,3 +17,10 @@ h2 {
 p {
   Font-size: 20px;
 }
+
+ul { 
+  height: 100;
+  margin:0;
+  text-align: center;
+  width: 100;
+}
