@@ -57,6 +57,7 @@ p {
 
 li {
   list-style-type: square;
+  font-family: Verdana, sans-serif;
 }
 
 .right{ 
