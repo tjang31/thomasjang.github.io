@@ -12,7 +12,7 @@ div{
 }
 
 #name {
-  margin-left: 50px;
+  text-algin: center;
   padding-top: 5px;
   font-size: 80px;
   font-family: Verdana, sans-serif;
