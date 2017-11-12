@@ -34,14 +34,10 @@ body {
   width: 100;
 }
 
-h1 {
-  Font-size: 80px;
-  text-align: center;
-}
-
 h2 { 
+  margin-left: 5px;
+  margin-bottom: 5px;
   Font-size: 30px;
-  text-align: left;
 }
 
 p {
