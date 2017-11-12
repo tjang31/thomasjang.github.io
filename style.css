@@ -51,6 +51,10 @@ p {
   color: #000000;
 }
 
+li {
+  list-style: square;
+}
+
 img { 
   float: right;
 }
