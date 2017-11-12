@@ -52,8 +52,9 @@ p {
 }
 
 li {
-  list-style: square;
+  list-style-type: square;
 }
+
 
 img { 
   float: right;
