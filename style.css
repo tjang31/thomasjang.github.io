@@ -36,7 +36,8 @@ body {
 h2 { 
   margin-left: 5px;
   margin-bottom: 5px;
-  Font-size: 30px;
+  font-size: 30px;
+  font-family: verdana, sans-serif;
 }
 
 p {
