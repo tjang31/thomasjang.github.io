@@ -12,7 +12,7 @@ div{
 }
 
 #name {
-  text-algin: center;
+  float: right;
   padding-top: 5px;
   font-size: 80px;
   font-family: Verdana, sans-serif;
@@ -20,7 +20,7 @@ div{
 }
 
 #email {
-  margin-left: 5px;
+  margin-left: 50px;
   margin-bottom: 5px;
   padding-top: 5px;
   font-size: 16px;
