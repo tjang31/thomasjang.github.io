@@ -43,6 +43,13 @@ p {
   text-align: left;
   bottom-margin: 5cm;
 }
+.right {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: -10px;
+  faont-family: garamond, serif;
+  color: #000000;
+}
 
 img { 
   float: right;
