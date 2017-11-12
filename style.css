@@ -17,6 +17,11 @@
   margin-bottom: 5px;
 }
 
+#date {
+  text-align: right;
+  font-family: Verdana, sans-serif;
+}
+
 #email {
   margin-left: 5px;
   padding-top: -5px;
