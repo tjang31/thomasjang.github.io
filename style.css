@@ -15,6 +15,7 @@ div{
   margin-left: 5px;
   padding-top: 5px;
   font-size: 80px;
+  font-family: Verdana, sans-serif;
   margin-bottom: 5px;
 }
 
@@ -23,6 +24,7 @@ div{
   margin-left: 5px;
   padding-top: 5px;
   font-size: 16px;
+  font-family: Verdana; sans-serif:
 }
 
 body {
@@ -36,10 +38,12 @@ h2 {
   margin-left: 5px;
   margin-bottom: 5px;
   font-size: 10px;
+  font-family: Verdana, sans-serif:
 }
 
 p {
   Font-size: 20px;
+  font-family: Verdana, sans-serif;
   text-align: left;
   bottom-margin: 5cm;
 }
@@ -47,7 +51,7 @@ p {
   margin-left: 5px;
   margin-right: 5px;
   margin-top: -10px;
-  faont-family: garamond, serif;
+  faont-family: Verdana, sans-serif;
   color: #000000;
 }
 
